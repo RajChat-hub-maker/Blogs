@@ -16,5 +16,65 @@
     "date": "June 25, 2025",
     "author": "Rajdeep Chatterjee",
     "content": "Ever wondered how our Email Finder scrapes and validates emails with accuracy? We break down the logic and tech powering it."
+  },
+  {
+    "title": "🧩 JSON Indexer - Organize Data Like Never Before",
+    "date": "June 23, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "Our JSON Indexer helps you categorize, structure, and extract key-value pairs from massive JSON datasets instantly. Built to assist developers, analysts, and marketers."
+  },
+  {
+    "title": "📦 StockMate - Inventory Automation at Your Fingertips",
+    "date": "June 21, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "StockMate automates stock entries, generates alerts, and helps you manage your inventory digitally in the easiest possible way."
+  },
+  {
+    "title": "🧾 Quotation Generator - Professional Bills in Seconds",
+    "date": "June 20, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "Create professional quotations and invoices using our simple CLI or GUI tool that exports clean, well-formatted PDFs instantly."
+  },
+  {
+    "title": "🎉 StockMate v2.0 Released",
+    "date": "June 19, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "The new version of StockMate adds chart integration, client management, and a sleek new UI. Upgrade today!"
+  },
+  {
+    "title": "📨 Introducing: Email Finder Pro Edition",
+    "date": "June 18, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "We’ve launched a Pro version of Email Finder with advanced domain validation, bulk scan support, and export to Excel."
+  },
+  {
+    "title": "🏢 The Story Behind SalesAutoMate™",
+    "date": "June 15, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "SalesAutoMate™ started as a vision to help businesses automate their daily operations — from quotations to document editing. Today, it serves as a growing ecosystem of tools built from real-world needs."
+  },
+  {
+    "title": "👤 About the Founder - Rajdeep Chatterjee",
+    "date": "June 14, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "Hi, I'm Rajdeep — a developer, founder, and passionate builder of business tools. I created SalesAutoMate™ to help others save time and scale fast. You can contact me at rajdeepchatterjee@salesautomate.site."
+  },
+  {
+    "title": "📬 How SalesAutoMate™ Email System Was Built",
+    "date": "June 13, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "I used Zoho Mail and custom routing with Vercel + Node.js to build the SalesAutoMate™ email experience. The super administrator of all mailboxes is me, and the domain used is mail.salesautomate.site."
+  },
+  {
+    "title": "📄 Terms and Conditions of Using SalesAutoMate™ Tools",
+    "date": "June 12, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "By using any SalesAutoMate™ tool, you agree to comply with our terms — including no redistribution, no commercial reselling, and proper attribution where required. Contact info@salesautomate.site for details."
+  },
+  {
+    "title": "📘 Licensing: EULA, NTLA, and Warranty Disclaimers",
+    "date": "June 11, 2025",
+    "author": "Rajdeep Chatterjee",
+    "content": "All tools are protected under the End User License Agreement (EULA), Non-Transferable License Agreement (NTLA), and include no warranties of merchantability. Rights are reserved with SalesAutoMate™."
   }
-]                
+]                           
