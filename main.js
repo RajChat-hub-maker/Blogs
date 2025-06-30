@@ -28,12 +28,8 @@ async function loadPosts() {
 }
 
 function changeSlide(direction) {
-  if (
-    (direction === 1 && currentSlide >= slides.length - 1) ||
-    (direction === -1 && currentSlide <= 0)
-  ) return;
-
-  currentSlide += direction;
+  const total = slides.length;
+  currentSlide = (currentSlide + direction + total) % total;
   slides.forEach((slide, i) => {
     slide.style.transform = `translateY(${(i - currentSlide) * 100}%)`;
   });
@@ -65,4 +61,5 @@ function setupSwipe() {
   });
 }
 
-loadPosts().then(setupSwipe);               
+loadPosts().then(setupSwipe);
+            
